@@ -1,0 +1,808 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/531965",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1592419058",
+ "id": 531965,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1592419058",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Willy Colon",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Willy-colon",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7373449",
+  "classification": "needs_exegesis",
+  "fragment": "Willy Colon",
+  "id": 7373449,
+  "is_description": true,
+  "path": "/7373449/Willy-colon/Willy-colon",
+  "range": {
+   "content": "Willy Colon"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7373449/Willy-colon/Willy-colon",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/531965",
+   "context": null,
+   "id": 531965,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1592419058",
+   "link_title": "Willy Colon",
+   "title": "Willy Colon",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Willy-colon"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7373449",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7373449,
+    "pinned": false,
+    "share_url": "https://genius.com/7373449",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7373449/Willy-colon/Willy-colon",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2245088",
+   "apple_music_id": "404434698",
+   "apple_music_player_url": "https://genius.com/songs/2245088/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2245088' class='rg_embed_link' data-song-id='2245088'>Read <a href='https://genius.com/Willy-colon-idilio-salsa-lyrics'>\u201cIdilio (Salsa)\u201d by Willy\u00a0Colon</a> on Genius</div> <script crossorigin src='//genius.com/songs/2245088/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Idilio (Salsa) by\u00a0Willy\u00a0Colon",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1592419058",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1592419058",
+   "id": 2245088,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Willy-colon-idilio-salsa-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1592419058",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1592419058",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Idilio (Salsa)",
+   "title_with_featured": "Idilio (Salsa)",
+   "url": "https://genius.com/Willy-colon-idilio-salsa-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7384010",
+    "classification": "needs_exegesis",
+    "fragment": "Idilio (Salsa)",
+    "id": 7384010,
+    "is_description": true,
+    "path": "/7384010/Willy-colon-idilio-salsa/Idilio-salsa",
+    "range": {
+     "content": "Idilio (Salsa)"
+    },
+    "song_id": 2245088,
+    "url": "https://genius.com/7384010/Willy-colon-idilio-salsa/Idilio-salsa",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2245088",
+     "client_timestamps": {
+      "updated_by_human_at": 1447110149,
+      "lyrics_updated_at": 1437142235
+     },
+     "context": "Willy Colon",
+     "id": 2245088,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1592419058",
+     "link_title": "Idilio (Salsa) by\u00a0Willy\u00a0Colon",
+     "title": "Idilio (Salsa)",
+     "type": "Song",
+     "url": "https://genius.com/Willy-colon-idilio-salsa-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7384010",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7384010,
+      "pinned": false,
+      "share_url": "https://genius.com/7384010",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7384010/Willy-colon-idilio-salsa/Idilio-salsa",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/531965",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1592419058",
+    "id": 531965,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1592419058",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Willy Colon",
+    "url": "https://genius.com/artists/Willy-colon"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "S\u00f3lo me alienta el deseo divino de hacerte m\u00eda\nM\u00e1s me destruye la incertidumbre\nQue estoy pasando\nEs que la nieve cruel de los a\u00f1os\nMi cuerpo enfr\u00eda\nY se me agota ya la paciencia por ti esperando\nY se me agota ya la paciencia por ti esperando\n\nQue a besos yo te levante al rayar el d\u00eda\nY que el Idilio perdure siempre al llegar la noche\nY cuando venga la aurora llena de goce\nSe fundan en una sola tu alma y la m\u00eda\n\nQue a besos yo te levante al rayar el d\u00eda\nQue a besos, el d\u00eda nos sorprenda coraz\u00f3n\nY que el Idilio perdure siempre al llegar la noche\nLa noche sea tan s\u00f3lo de los dos\nCuando venga la aurora llena de goce\nJuntos solos t\u00fa y yo\nSe fundan en una sola tu alma y la mia\n\nQue a besos yo te levante al rayar el d\u00eda\nY que el Idilio perdure siempre al llegar la noche\nY cuando venga la aurora llena de goce\nSe fundan en una sola tu alma y la m\u00eda\n\nQue a besos yo te levante al rayar el d\u00eda\nQue a besos, el d\u00eda nos sorprenda coraz\u00f3n\nY que el Idilio perdure siempre al llegar la noche\nLa noche sea tan s\u00f3lo de los dos\nCuando venga la aurora llena de goce\nJuntos solos t\u00fa y yo\nSe fundan en una sola tu alma y la m\u00eda\nSe fundan en una sola tu alma y la m\u00eda\n\nSo\u00f1ando\nContigo\nQueriendo que se cumpla el nuestro Idilio\n\nA veces me voy a un rinc\u00f3n\nY me quedo en el vac\u00edo\nSufriendo por ti amor m\u00edo\nTe llama mi coraz\u00f3n\n\nSo\u00f1ando\nContigo\nQueriendo que se cumpla el nuestro Idilio\n\nY ver\u00e1s\nQue lindo que es el amor\nCuando se quiere de verdad\nNo existe duda no existe rencor\nSolo un coraz\u00f3n\nQue es para los dos\n\nSo\u00f1ando\nContigo\nQueriendo que se cumpla el nuestro Idilio\n\nEeeh yo esperar\u00eda mil a\u00f1os\nSi fuera tu condici\u00f3n\nPero el tiempo va volando\nNo hay ni calma mi pasi\u00f3n\n\nSo\u00f1ando\nContigo\nQueriendo que se cumpla el nuestro Idilio\n\nY as\u00ed muy ...\nVolver a sentir que\nSe funden tu alma y la m\u00eda\nEn un abrazo\nUn Idilio de amor"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2238609",
+   "apple_music_id": "1436559572",
+   "apple_music_player_url": "https://genius.com/songs/2238609/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2238609' class='rg_embed_link' data-song-id='2238609'>Read <a href='https://genius.com/Willy-colon-asia-lyrics'>\u201cAsia\u201d by Willy\u00a0Colon</a> on Genius</div> <script crossorigin src='//genius.com/songs/2238609/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Asia by\u00a0Willy\u00a0Colon",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1592419058",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1592419058",
+   "id": 2238609,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Willy-colon-asia-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1592419058",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1592419058",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Asia",
+   "title_with_featured": "Asia",
+   "url": "https://genius.com/Willy-colon-asia-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7373450",
+    "classification": "needs_exegesis",
+    "fragment": "Asia",
+    "id": 7373450,
+    "is_description": true,
+    "path": "/7373450/Willy-colon-asia/Asia",
+    "range": {
+     "content": "Asia"
+    },
+    "song_id": 2238609,
+    "url": "https://genius.com/7373450/Willy-colon-asia/Asia",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2238609",
+     "client_timestamps": {
+      "updated_by_human_at": 1447115948,
+      "lyrics_updated_at": 1437088437
+     },
+     "context": "Willy Colon",
+     "id": 2238609,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1592419058",
+     "link_title": "Asia by\u00a0Willy\u00a0Colon",
+     "title": "Asia",
+     "type": "Song",
+     "url": "https://genius.com/Willy-colon-asia-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7373450",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7373450,
+      "pinned": false,
+      "share_url": "https://genius.com/7373450",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7373450/Willy-colon-asia/Asia",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/531965",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1592419058",
+    "id": 531965,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1592419058",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Willy Colon",
+    "url": "https://genius.com/artists/Willy-colon"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Veo tu cara en la plaza,no me atrevi a llamar\nAl doblar la esquina te oia cantar\nEsta casa no es mia,ella misma te extra\u00f1a\nVivo rico de cosas pero pobre en el alma\nQue misterio que no puedo comprender\nQue le ha pasado a mi asia para donde se fue\nOjos tristes y ala vez llenos de amor\nGuardaran tus secretos,cual sera tu dolor\nCoro\nAaaa.. siento asia llamando\nAaaa.. siento asia llamando (BIS)\nEn un campo remoto en la plena ciudad\nY hasta mas me sentia a la orilla del mar\nEsta casa no es mia ella misma te extra\u00f1a\nVivo rico de cosas\nPero pobre del alma\nQue misterio que no puedo comprender\nQue le ha pasado ami asia para donde se fue\nOjos tristes y ala vez llenos de amor\nGuardaran tus secretos,cual sera tu dolor\nCoro\nAaaa.. siento asia llamando\nAaaa.. siento asia llamando (BIS)\nEn un campo remoto en la plena ciudad\nY hasta mas me sentia\nA la orilla del mar\nEsta casa no es mia ella misma te extra\u00f1a\nVivo rico de cosas\nPero pobre del alma\nQue misterio que no puedo comprender\nQue le ha pasado a mi asia para donde se fue\nOjos tristes y ala vez llenos de amor\nGuardaran tus secretos,cual sera tu dolor\nCoro\nAaaa.. siento asia llamando\nAaaa.. siento asia llamando (BIS)\nAsia, asia mia, como un sue\u00f1o te me fuiste y ahora\nPienso solo en verte\nComo un sue\u00f1o te me fuiste\nY ahora solo pienso en verte\nComo quisiera tenerte\nY amarte toda la vida\nAsia, asia mia, como un sue\u00f1o te me fuiste y ahora\nPienso solo en verte\nAsia fuiste todo para mi, oyeme asia\nAsia, asia mia, como un sue\u00f1o te me fuiste y ahora\nPienso solo en verte\nEl mar que nos separa\nUn mar de agua y tiempo\nCanta el triste lamento\nQue yo siento todav\u00eda\nAsia, asia mia, como un sue\u00f1o te me fuiste y ahora\nPienso solo en verte\nSolo queda tu recuerdo\nEl tiempo que aqu\u00ed viv\u00eda\nSi tu fueras toda mia, todo cambiar\u00eda\nDalo por cierto\nAsia llamando\nNo me quites la camisa que voy andando\nAsia llamando\nAsia, asia, siempre en ti pensando\nAsia llamando\nMira mis ojos que estan llorando\nAsia llamando\nYo me voy, yo me voy, yo me voy aunque sea caminando\nAsia llamando\nAsia llamando (BIS)\nEh, quiero sentirte junto a mi pecho\nAsia llamando\nPara entregarme todo en tu lecho\nAsia llamando\nComo un sue\u00f1o te me fuiste\nAsia llamando\nY solo quedan recuerdos tristes"
+  }
+ ]
+}

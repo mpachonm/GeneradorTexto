@@ -1,0 +1,2476 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/526307",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+ "id": 526307,
+ "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Richie Ray & Bobby Cruz",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Richie-ray-and-bobby-cruz",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7314266",
+  "classification": "needs_exegesis",
+  "fragment": "Richie Ray & Bobby Cruz",
+  "id": 7314266,
+  "is_description": true,
+  "path": "/7314266/Richie-ray-and-bobby-cruz/Richie-ray-and-bobby-cruz",
+  "range": {
+   "content": "Richie Ray & Bobby Cruz"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7314266/Richie-ray-and-bobby-cruz/Richie-ray-and-bobby-cruz",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/526307",
+   "context": null,
+   "id": 526307,
+   "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+   "link_title": "Richie Ray & Bobby Cruz",
+   "title": "Richie Ray & Bobby Cruz",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Richie-ray-and-bobby-cruz"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7314266",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7314266,
+    "pinned": false,
+    "share_url": "https://genius.com/7314266",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7314266/Richie-ray-and-bobby-cruz/Richie-ray-and-bobby-cruz",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/1968024",
+   "apple_music_id": "133612",
+   "apple_music_player_url": "https://genius.com/songs/1968024/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1968024' class='rg_embed_link' data-song-id='1968024'>Read <a href='https://genius.com/Richie-ray-and-bobby-cruz-sonido-bestial-lyrics'>\u201cSonido Bestial\u201d by Richie\u00a0Ray & Bobby Cruz</a> on Genius</div> <script crossorigin src='//genius.com/songs/1968024/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Sonido Bestial by\u00a0Richie\u00a0Ray & Bobby Cruz",
+   "header_image_thumbnail_url": "https://images.genius.com/bdaadb0d1f2e86497a55ef3c66817280.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/bdaadb0d1f2e86497a55ef3c66817280.303x303x1.jpg",
+   "id": 1968024,
+   "lyrics_owner_id": 7019031,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Richie-ray-and-bobby-cruz-sonido-bestial-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "1971",
+   "song_art_image_thumbnail_url": "https://images.genius.com/bdaadb0d1f2e86497a55ef3c66817280.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/bdaadb0d1f2e86497a55ef3c66817280.303x303x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sonido Bestial",
+   "title_with_featured": "Sonido Bestial",
+   "url": "https://genius.com/Richie-ray-and-bobby-cruz-sonido-bestial-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/494888",
+    "cover_art_url": "https://images.genius.com/bdaadb0d1f2e86497a55ef3c66817280.303x303x1.jpg",
+    "full_title": "El Bestial Sonido de Ricardo Ray y Bobby Cruz by Richie Ray & Bobby Cruz",
+    "id": 494888,
+    "name": "El Bestial Sonido de Ricardo Ray y Bobby Cruz",
+    "url": "https://genius.com/albums/Richie-ray-and-bobby-cruz/El-bestial-sonido-de-ricardo-ray-y-bobby-cruz",
+    "artist": {
+     "api_path": "/artists/526307",
+     "header_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+     "id": 526307,
+     "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Richie Ray & Bobby Cruz",
+     "url": "https://genius.com/artists/Richie-ray-and-bobby-cruz"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6654457",
+    "classification": "needs_exegesis",
+    "fragment": "Sonido Bestial",
+    "id": 6654457,
+    "is_description": true,
+    "path": "/6654457/Richie-ray-and-bobby-cruz-sonido-bestial/Sonido-bestial",
+    "range": {
+     "content": "Sonido Bestial"
+    },
+    "song_id": 1968024,
+    "url": "https://genius.com/6654457/Richie-ray-and-bobby-cruz-sonido-bestial/Sonido-bestial",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1968024",
+     "client_timestamps": {
+      "updated_by_human_at": 1547096126,
+      "lyrics_updated_at": 1547096045
+     },
+     "context": "Richie Ray & Bobby Cruz",
+     "id": 1968024,
+     "image_url": "https://images.genius.com/bdaadb0d1f2e86497a55ef3c66817280.303x303x1.jpg",
+     "link_title": "Sonido Bestial by\u00a0Richie\u00a0Ray & Bobby Cruz",
+     "title": "Sonido Bestial",
+     "type": "Song",
+     "url": "https://genius.com/Richie-ray-and-bobby-cruz-sonido-bestial-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6654457",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6654457,
+      "pinned": false,
+      "share_url": "https://genius.com/6654457",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6654457/Richie-ray-and-bobby-cruz-sonido-bestial/Sonido-bestial",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/526307",
+    "header_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+    "id": 526307,
+    "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Richie Ray & Bobby Cruz",
+    "url": "https://genius.com/artists/Richie-ray-and-bobby-cruz"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Letra de \"Sonido Bestial\"]\n\n!Que salgan las bestias!\nUhh!\nAh\u00ed vienen Cocol\u00ed y Manuelito\n\nT\u00fa que dec\u00edas que ya no servia\nOye, t\u00fa que dec\u00edas que ya no salia\nAhora mismito, mi amigo yo te vengo a saludar\nEscucha, escucha\nOye sonar las trompetas, oye los cueros sonar\n\nRicardo viene de frente con su sonido bestial\n\nHey, que ah\u00ed viene Richie y viene vira'o\nComo bestia, tocando un tumba'o\n(Ah\u00ed viene Richie y viene vira'o, como bestia tocando un tumba'o)\n\u00c1branle paso que est\u00e1 engalla'o\nComo bestia tocando un tumba'o\n(Ah\u00ed viene Richie y viene vira'o, como bestia tocando un tumba'o)\nMira, que dice Maelo que est\u00e1 asusta'o\nPorque viene tocando un tumba'o\n(Ah\u00ed viene Richie y viene vira'o, como bestia tocando un tumba'o)\nAh\u00ed na' m\u00e1'\n\nEs eso Richie?\nTocando Stravinski\nOye quien toca no es Stravinski, es \"Estrabancao\"\n\nAy, t\u00f3came, Richie, t\u00f3came Jazz\nComo bestia toca el tumba'o\n(Ah\u00ed viene Richie y viene vira'o, como bestia tocando un tumba'o)\nSalte del medio que est\u00e1 endiabla'o\nComo bestia, gozando un tumbao\n(Ah\u00ed viene Richie y viene vira'o, como bestia tocando un tumba'o)\nAy, que ah\u00ed viene Richie yviene virao\nComo bestia gozando un tumba'o\n(Ah\u00ed viene Richie y viene vira'o, como bestia tocando un tumba'o)\nAy, no es Stravinski es \"Estrabancao\"\nPero viene gozando el tumba'o\n(Ah\u00ed viene Richie y viene vira'o, como bestia tocando un tumba'o)\n\n\nA correr, que ah\u00ed viene corriendo Coco\n\n\n(Vamos tocando como bestias)\n(Vamos tocando como bestias)\n(Vamos tocando como bestias)\nY de Richie ray les viene a tocar\n(Vamos tocando como bestias)\nAy, al son de los cueros, a cuero na' m\u00e1'\n(Vamos tocando como bestias)\nComo no, como no, como no, como no, como no, como no\n(Vamos tocando como bestias)\nEpa, dice Pacheco que \u00e9l viene a gozar\n(Vamos tocando como bestias)\nHey, a la fiesta grande se viene a bailar\n(Vamos tocando como bestias)\nVamos tocando como bestias\n(Vamos tocando como bestias)\nEpa, vamos gozando como bestias\n(Vamos tocando como bestias)\nA cuero pela'o nos vamo' a gozar\n(Vamos tocando como bestias)\nCh\u00e9vere, ch\u00e9vere que ch\u00e9vere, ch\u00e9vere, ch\u00e9vere que ch\u00e9vere\n(Vamos tocando como bestias)\nAy, que ch\u00e9vere"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2240865",
+   "apple_music_id": "135447739",
+   "apple_music_player_url": "https://genius.com/songs/2240865/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2240865' class='rg_embed_link' data-song-id='2240865'>Read <a href='https://genius.com/Richie-ray-and-bobby-cruz-el-jala-jala-lyrics'>\u201cEl Jala Jala\u201d by Richie\u00a0Ray & Bobby Cruz</a> on Genius</div> <script crossorigin src='//genius.com/songs/2240865/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "El Jala Jala by\u00a0Richie\u00a0Ray & Bobby Cruz",
+   "header_image_thumbnail_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+   "id": 2240865,
+   "lyrics_owner_id": 7019031,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Richie-ray-and-bobby-cruz-el-jala-jala-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "El Jala Jala",
+   "title_with_featured": "El Jala Jala",
+   "url": "https://genius.com/Richie-ray-and-bobby-cruz-el-jala-jala-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7376090",
+    "classification": "needs_exegesis",
+    "fragment": "El Jala Jala",
+    "id": 7376090,
+    "is_description": true,
+    "path": "/7376090/Richie-ray-and-bobby-cruz-el-jala-jala/El-jala-jala",
+    "range": {
+     "content": "El Jala Jala"
+    },
+    "song_id": 2240865,
+    "url": "https://genius.com/7376090/Richie-ray-and-bobby-cruz-el-jala-jala/El-jala-jala",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2240865",
+     "client_timestamps": {
+      "updated_by_human_at": 1571410749,
+      "lyrics_updated_at": 1571410749
+     },
+     "context": "Richie Ray & Bobby Cruz",
+     "id": 2240865,
+     "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+     "link_title": "El Jala Jala by\u00a0Richie\u00a0Ray & Bobby Cruz",
+     "title": "El Jala Jala",
+     "type": "Song",
+     "url": "https://genius.com/Richie-ray-and-bobby-cruz-el-jala-jala-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7376090",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7376090,
+      "pinned": false,
+      "share_url": "https://genius.com/7376090",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7376090/Richie-ray-and-bobby-cruz-el-jala-jala/El-jala-jala",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=uWkiUljVFG8"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/526307",
+    "header_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+    "id": 526307,
+    "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Richie Ray & Bobby Cruz",
+    "url": "https://genius.com/artists/Richie-ray-and-bobby-cruz"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Letra de \"El Jala Jala\"]\n\nEn Puerto Rico, la gente goza m\u00e1s\nEl Jala Jala sabroso de verdad\nYa todo el mundo quiere jalar pa' all\u00e1\nEl Jala Jala pa' vacilar\nEl Jala Jala pa' vacilar\nEl Jala Jala para gozar\nPuerto Rico me llama, vamos pa' all\u00e1\nEl Jala Jala pa' vacilar\nTiembla que eh, mira pa' all\u00e1\nEl Jala Jala para gozar, ah-jah\n\nOye Cortijo, quiere jalar pa' ac\u00e1\nY ese Gran Combo, que jala de verdad\nY ahora Ricardo quiere jalar pa' all\u00e1\nPero vente con Richie pa' vacilar\nVente con Richie pa' vacilar\nPero vente con Richie para gozar\nJala Jala, qu\u00e9 rico para gozar\nPero vente con Richie pa' vacilar\nTiembla que eh, mira pa' all\u00e1\nPero vente con Richie para gozar, ah-jah\n\n[Instrumental]\n\nY yo traigo pa ti\nPuerto Rico me llama (Jala Jala)\nMira, \u00bfpor qu\u00e9 ser\u00e1? (Jala Jala)\nCaballero, yo me voy pa' all\u00e1 (Jala Jala)\nPare, cochero, t\u00edreme all\u00e1 (Jala Jala)\nMire, bendito, me voy pa' all\u00e1 (Jala Jala)\nPare cochero-cochero, pare, cochero (Jala Jala)\nPare cochero-cochero, pare, cochero (Jala Jala)\nMire, Caina, mira pa' ac\u00e1 (Jala Jala)\n\u00b4\n[Instrumental]\n\nY con Richie na' m\u00e1\nJala es m\u00e1s rico (Jala Jala)\nMira pa cumbanchar (Jala Jala)\nCaserita, ll\u00e9vame pa' all\u00e1 (Jala Jala)\nPa' Puerto Rico, yo voy pa' all\u00e1 (Jala Jala)\nMira que rico est\u00e1 (Jala Jala)\nJala Jala para vacilar (Jala Jala)\nEmpare caina mira pa' ac\u00e1 (Jala Jala)\nPare, cochero, ll\u00e9veme all\u00e1 (Jala Jala)\n\n[Instrumental]\n\nY yo traigo pa ti\nPuerto Rico me llama (Jala Jala)\nMira, \u00bfpor qu\u00e9 ser\u00e1? (Jala Jala)\nCaballero, yo me voy pa' all\u00e1 (Jala Jala)\nPare, cochero, t\u00edreme all\u00e1 (Jala Jala)\nMire, bendito, me voy pa' all\u00e1 (Jala Jala)\nPare cochero-cochero, pare, cochero (Jala Jala)\nPare cochero-cochero, pare, cochero (Jala Jala)\nMire, Caina, mira pa' ac\u00e1 (Jala Jala)\n\n\u00a1Jala!\n\u00a1Ay!"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2240587",
+   "apple_music_id": "212286375",
+   "apple_music_player_url": "https://genius.com/songs/2240587/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2240587' class='rg_embed_link' data-song-id='2240587'>Read <a href='https://genius.com/Richie-ray-and-bobby-cruz-gan-gan-y-gan-gon-lyrics'>\u201cGan Gan y Gan Gon\u201d by Richie\u00a0Ray & Bobby Cruz</a> on Genius</div> <script crossorigin src='//genius.com/songs/2240587/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Gan Gan y Gan Gon by\u00a0Richie\u00a0Ray & Bobby Cruz",
+   "header_image_thumbnail_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+   "id": 2240587,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Richie-ray-and-bobby-cruz-gan-gan-y-gan-gon-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Gan Gan y Gan Gon",
+   "title_with_featured": "Gan Gan y Gan Gon",
+   "url": "https://genius.com/Richie-ray-and-bobby-cruz-gan-gan-y-gan-gon-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7375763",
+    "classification": "needs_exegesis",
+    "fragment": "Gan Gan y Gan Gon",
+    "id": 7375763,
+    "is_description": true,
+    "path": "/7375763/Richie-ray-and-bobby-cruz-gan-gan-y-gan-gon/Gan-gan-y-gan-gon",
+    "range": {
+     "content": "Gan Gan y Gan Gon"
+    },
+    "song_id": 2240587,
+    "url": "https://genius.com/7375763/Richie-ray-and-bobby-cruz-gan-gan-y-gan-gon/Gan-gan-y-gan-gon",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2240587",
+     "client_timestamps": {
+      "updated_by_human_at": 1447111372,
+      "lyrics_updated_at": 1437089453
+     },
+     "context": "Richie Ray & Bobby Cruz",
+     "id": 2240587,
+     "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+     "link_title": "Gan Gan y Gan Gon by\u00a0Richie\u00a0Ray & Bobby Cruz",
+     "title": "Gan Gan y Gan Gon",
+     "type": "Song",
+     "url": "https://genius.com/Richie-ray-and-bobby-cruz-gan-gan-y-gan-gon-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7375763",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7375763,
+      "pinned": false,
+      "share_url": "https://genius.com/7375763",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7375763/Richie-ray-and-bobby-cruz-gan-gan-y-gan-gon/Gan-gan-y-gan-gon",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/526307",
+    "header_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+    "id": 526307,
+    "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Richie Ray & Bobby Cruz",
+    "url": "https://genius.com/artists/Richie-ray-and-bobby-cruz"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Snoop Dogg\nThe Game Is To Be Sold, Not To Be Told\nWhat Cha Gon Do?\n(feat. Master P)\n\n[Master P]\nYo Snoop nigga\n[Snoop Dogg]\nWhat's happenin?\n[Master P]\nI think I just seen the dog catcher around\n[Snoop Dogg]\nNigga what?\n[Master P]\nIt go a little somethin like this here\n[Snoop Dogg]\nLike this, woof woof\n[Master P]\nLike this here, ya heard me?\n\nChorus\n[Master P]\nWatcha goin do when we come for you\n[Master P/Snoop Dogg]\nIf you a dog you better not run (Uhhhhh!) [x2]\n\n[Snoop Dogg]\nSee I'm tired of being broke, I like to smoke\nI love the west coast but I need a vacation bro\nI took me a ride down south\nI see the dog into bigger and better thing yall know what I'm talkin bout\nThe game is to be sold, not to be told\nI'm a No Limit soldier and I'm off parole\nNigga, let's put the pieces to the puzzle\nNow, every nigga that you hate would hate your cousin or your brother\nNigga, let's keep it real\nKeep your eyes on your enemies cause some niggas kill\nAnd the bitches, they'll break ya\nKeep your dick in your pants nigga, cause they'll play ya\nKeep your dogs in the house\nTrill niggas from the street (woof woof) know what I'm talkin bout\nNever bite the hand that feeds you\nCause you never know when your dog might need you\n\n[Chorus x4]\n[Snoop Dogg]\nWent from halves to wholes, from wood to marble floors\nFuckin with hoodrats to top notch hoes\nIn my Rolls with the sunroof top\nI told you hoes that Snoop Dogg won't stop\nTick tock, we got shit locked (say what)\nGoddamn it feel good to be sittin on top\nSo let's toast to the gin and juice and champaigne\nWelcome to my world and Snoop is the name\nNigga, and pass me the green sticky\nWe only fuckin with the real nigga, you ain't gotta lie to kick it\nCause we ain't picky if you lick it\nOr stick it, girl is you down with this quicky\nI gotta show to do in Europe and one in Japan\nSo when you see me on stage Snoop Dogg is the name\nNigga, yeah, that's real, huh\nWhatch yall gonna do when we come for you\n\n[Chorus x4]"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1950604",
+   "apple_music_id": "133606",
+   "apple_music_player_url": "https://genius.com/songs/1950604/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1950604' class='rg_embed_link' data-song-id='1950604'>Read <a href='https://genius.com/Richie-ray-and-bobby-cruz-aguzate-lyrics'>\u201cAguzate\u201d by Richie\u00a0Ray & Bobby Cruz</a> on Genius</div> <script crossorigin src='//genius.com/songs/1950604/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Aguzate by\u00a0Richie\u00a0Ray & Bobby Cruz",
+   "header_image_thumbnail_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+   "id": 1950604,
+   "lyrics_owner_id": 7019031,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Richie-ray-and-bobby-cruz-aguzate-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Aguzate",
+   "title_with_featured": "Aguzate",
+   "url": "https://genius.com/Richie-ray-and-bobby-cruz-aguzate-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6636575",
+    "classification": "needs_exegesis",
+    "fragment": "Aguzate",
+    "id": 6636575,
+    "is_description": true,
+    "path": "/6636575/Richie-ray-and-bobby-cruz-aguzate/Aguzate",
+    "range": {
+     "content": "Aguzate"
+    },
+    "song_id": 1950604,
+    "url": "https://genius.com/6636575/Richie-ray-and-bobby-cruz-aguzate/Aguzate",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1950604",
+     "client_timestamps": {
+      "updated_by_human_at": 1571408542,
+      "lyrics_updated_at": 1571408542
+     },
+     "context": "Richie Ray & Bobby Cruz",
+     "id": 1950604,
+     "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+     "link_title": "Aguzate by\u00a0Richie\u00a0Ray & Bobby Cruz",
+     "title": "Aguzate",
+     "type": "Song",
+     "url": "https://genius.com/Richie-ray-and-bobby-cruz-aguzate-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6636575",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6636575,
+      "pinned": false,
+      "share_url": "https://genius.com/6636575",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6636575/Richie-ray-and-bobby-cruz-aguzate/Aguzate",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 1,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=fUPSz1SOrtM"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/526307",
+    "header_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+    "id": 526307,
+    "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Richie Ray & Bobby Cruz",
+    "url": "https://genius.com/artists/Richie-ray-and-bobby-cruz"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Letra de \"Aguzate\"]\n\n\u00a1Ag\u00fazate, Miguel!\nEpa, ya\n\nSiento una voz que me dice \"Ag\u00fazate, que te est\u00e1n velando\"\nSiento una voz que me dice \"Ag\u00e1chate, que te est\u00e1n tirando\"\n\nY yo pasar\u00eda de tonto si no supiera\nQue uno tiene que estar mosca por donde quiera\nY es por eso que yo digo de esta manera\nQue este individuo no sabe en que se meti\u00f3, aj\u00e1\nPonle saber, Richie Ray\nWoo\n\nSiento una voz que me dice \"Ag\u00fazate, que te est\u00e1n velando\"\nSiento una voz que me dice \"Ag\u00e1chate, que te est\u00e1n tirando\"\n\nY yo pasar\u00eda de tonto si no supiera\nQue uno tiene que estar mosca por donde quiera\nY es por eso que yo digo de esta manera\nQue este individuo no sabe en qu\u00e9 se meti\u00f3\n\nSiento una voz que me dice \"Ag\u00fazate, que te est\u00e1n velando\"\nSiento una voz que me dice \"Ag\u00e1chate, que te est\u00e1n tirando\"\n\nOye, esa voz siempre me dice cuidao' que te est\u00e1n velando\nOye, esa voz siempre me dice cuidao' que te est\u00e1n tirando\nAg\u00fazate, que te est\u00e1n velando\nPero yo no me escondo del diablo\nPorque yo soy buena gente\nAg\u00fazate que te est\u00e1n velando\nQue yo me voy domitingo talango, como persona decente\nAg\u00fazate que te est\u00e1n velando\nPoron amon, me est\u00e1 diciendo cuidao, que te est\u00e1n velando\nAg\u00fazate que te est\u00e1n velando\nOye, esa voz siempre me dice ag\u00e1chate que te est\u00e1n tirando\nAg\u00fazate que te est\u00e1n velando\nYo siento una voz que me dice, cuidao, que te est\u00e1n velando\n\nAg\u00fazate que te est\u00e1n velando\nOye ag\u00fazate me dice, mira que te est\u00e1n velando\nAg\u00fazate que te est\u00e1n velando\nOye, pero esa gente no sabe, oye, que yo tengo un santo\nAg\u00fazate que te est\u00e1n velando\nAg\u00fazate mira que una voz me est\u00e1 diciendo\nCuidao que te est\u00e1n velando\nAg\u00fazate que te est\u00e1n velando\nPoron la voz siemrpe me dice\nHuye que te est\u00e1n cazando\nAg\u00fazate que te est\u00e1n velando\n\nEdovago"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1104201",
+   "apple_music_id": "1465808396",
+   "apple_music_player_url": "https://genius.com/songs/1104201/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1104201' class='rg_embed_link' data-song-id='1104201'>Read <a href='https://genius.com/Richie-ray-and-bobby-cruz-youve-lost-that-loving-feeling-lyrics'>\u201cYou\u2019ve Lost That Loving Feeling\u201d by Richie\u00a0Ray & Bobby Cruz</a> on Genius</div> <script crossorigin src='//genius.com/songs/1104201/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "You\u2019ve Lost That Loving Feeling by\u00a0Richie\u00a0Ray & Bobby Cruz",
+   "header_image_thumbnail_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+   "id": 1104201,
+   "lyrics_owner_id": 1549345,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Richie-ray-and-bobby-cruz-youve-lost-that-loving-feeling-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "You\u2019ve Lost That Loving Feeling",
+   "title_with_featured": "You\u2019ve Lost That Loving Feeling",
+   "url": "https://genius.com/Richie-ray-and-bobby-cruz-youve-lost-that-loving-feeling-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5603003",
+    "classification": "needs_exegesis",
+    "fragment": "You\u2019ve Lost That Loving Feeling",
+    "id": 5603003,
+    "is_description": true,
+    "path": "/5603003/Richie-ray-and-bobby-cruz-youve-lost-that-loving-feeling/Youve-lost-that-loving-feeling",
+    "range": {
+     "content": "You\u2019ve Lost That Loving Feeling"
+    },
+    "song_id": 1104201,
+    "url": "https://genius.com/5603003/Richie-ray-and-bobby-cruz-youve-lost-that-loving-feeling/Youve-lost-that-loving-feeling",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1104201",
+     "client_timestamps": {
+      "updated_by_human_at": 1571408666,
+      "lyrics_updated_at": 1429635679
+     },
+     "context": "Richie Ray & Bobby Cruz",
+     "id": 1104201,
+     "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+     "link_title": "You\u2019ve Lost That Loving Feeling by\u00a0Richie\u00a0Ray & Bobby Cruz",
+     "title": "You\u2019ve Lost That Loving Feeling",
+     "type": "Song",
+     "url": "https://genius.com/Richie-ray-and-bobby-cruz-youve-lost-that-loving-feeling-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5603003",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5603003,
+      "pinned": false,
+      "share_url": "https://genius.com/5603003",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5603003/Richie-ray-and-bobby-cruz-youve-lost-that-loving-feeling/Youve-lost-that-loving-feeling",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=PlQauwmDWgw"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/526307",
+    "header_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+    "id": 526307,
+    "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Richie Ray & Bobby Cruz",
+    "url": "https://genius.com/artists/Richie-ray-and-bobby-cruz"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "You never close your eyes any more when I kiss your lips\nAnd there's no tenderness like before in your fingertips\nMmm, you're tryin' hard not to show it, baby\nBut baby, baby, I know it\nYou've lost that lovin' feelin'\nOh, that lovin' feelin'\nYou've lost that lovin' feelin'\nNow it's gone, gone, gone whoa oh, oh\nNow there's no welcome look in your eyes when I reach for you\nBaby, you've started to criticize every, every, every little thing that I do\nIt makes me just feel like crying, baby\n'Cause baby, something beautiful's dyin'\nYou've lost that lovin' feelin'\nOh, that lovin' feelin'\nYou've lost that lovin' feelin'\nNow it's gone, gone, gone, whoa oh, oh\nBaby, baby, I'd get down on my knees for you\nIf you would only love me, love me like you used to do, you know that\nWe had a love, a love, a love you don't find every day\nNo, no, no, no, no, no, no, no, no, no, no\nSo don't, don't, don't, don't, baby, don't throw it away\nNa, na, don't throw it away, don't throw it away\nNow baby, oh baby, I beg you baby, oh baby\nI beg you please, I need your love\nSo bring it on back, bring it back\nBring it back, bring it, bring it, bring it back\nBring back that lovin' feelin'\nOh, oh, oh that lovin' feelin'\nBring back that lovin' feelin'\n'Cause it's gone, gone, gone\nAnd I can't go on no more\nOh baby, yeah baby\nOh bring it on back now, hey baby\nI beg you baby, oh baby\nBring it on back, bring it on back\nBring it, bring it, bring it back\nBring back that lovin' feelin'\nOh, that lovin'feelin'\nYou've lost that lovin' feelin'\nNow it's gone, gone, gone, whoa oh, oh"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5063021",
+   "apple_music_id": "1465784349",
+   "apple_music_player_url": "https://genius.com/songs/5063021/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5063021' class='rg_embed_link' data-song-id='5063021'>Read <a href='https://genius.com/Richie-ray-and-bobby-cruz-soy-tan-feliz-lyrics'>\u201cSoy Tan Feliz\u201d by Richie\u00a0Ray & Bobby Cruz</a> on Genius</div> <script crossorigin src='//genius.com/songs/5063021/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Soy Tan Feliz by\u00a0Richie\u00a0Ray & Bobby Cruz",
+   "header_image_thumbnail_url": "https://images.genius.com/c446f88492ad5af195c511308c01ee61.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c446f88492ad5af195c511308c01ee61.360x360x1.jpg",
+   "id": 5063021,
+   "lyrics_owner_id": 7812164,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Richie-ray-and-bobby-cruz-soy-tan-feliz-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "1976-01-01",
+   "release_date_for_display": "January 1, 1976",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c446f88492ad5af195c511308c01ee61.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c446f88492ad5af195c511308c01ee61.360x360x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Soy Tan Feliz",
+   "title_with_featured": "Soy Tan Feliz",
+   "url": "https://genius.com/Richie-ray-and-bobby-cruz-soy-tan-feliz-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/582549",
+    "cover_art_url": "https://images.genius.com/c446f88492ad5af195c511308c01ee61.360x360x1.jpg",
+    "full_title": "Reconstrucci\u00f3n by Richie Ray & Bobby Cruz",
+    "id": 582549,
+    "name": "Reconstrucci\u00f3n",
+    "url": "https://genius.com/albums/Richie-ray-and-bobby-cruz/Reconstruccion",
+    "artist": {
+     "api_path": "/artists/526307",
+     "header_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+     "id": 526307,
+     "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Richie Ray & Bobby Cruz",
+     "url": "https://genius.com/artists/Richie-ray-and-bobby-cruz"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 7812164,
+    "annotator_login": "lamanci",
+    "api_path": "/referents/18550294",
+    "classification": "needs_exegesis",
+    "fragment": "Soy Tan Feliz",
+    "id": 18550294,
+    "is_description": true,
+    "path": "/18550294/Richie-ray-and-bobby-cruz-soy-tan-feliz/Soy-tan-feliz",
+    "range": {
+     "content": "Soy Tan Feliz"
+    },
+    "song_id": 5063021,
+    "url": "https://genius.com/18550294/Richie-ray-and-bobby-cruz-soy-tan-feliz/Soy-tan-feliz",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5063021",
+     "client_timestamps": {
+      "updated_by_human_at": 1580313209,
+      "lyrics_updated_at": 1580313209
+     },
+     "context": "Richie Ray & Bobby Cruz",
+     "id": 5063021,
+     "image_url": "https://images.genius.com/c446f88492ad5af195c511308c01ee61.360x360x1.jpg",
+     "link_title": "Soy Tan Feliz by\u00a0Richie\u00a0Ray & Bobby Cruz",
+     "title": "Soy Tan Feliz",
+     "type": "Song",
+     "url": "https://genius.com/Richie-ray-and-bobby-cruz-soy-tan-feliz-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18550294",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18550294,
+      "pinned": false,
+      "share_url": "https://genius.com/18550294",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18550294/Richie-ray-and-bobby-cruz-soy-tan-feliz/Soy-tan-feliz",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7812164",
+         "avatar": {
+          "tiny": {
+           "url": "https://i.genius.com/767debca053fdb2ef52ff52687773925f4de2780?url=https%3A%2F%2Flh5.googleusercontent.com%2F-bR0WDw0PNh0%2FAAAAAAAAAAI%2FAAAAAAAACCA%2F05fmIU0urIk%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://i.genius.com/767debca053fdb2ef52ff52687773925f4de2780?url=https%3A%2F%2Flh5.googleusercontent.com%2F-bR0WDw0PNh0%2FAAAAAAAAAAI%2FAAAAAAAACCA%2F05fmIU0urIk%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://i.genius.com/767debca053fdb2ef52ff52687773925f4de2780?url=https%3A%2F%2Flh5.googleusercontent.com%2F-bR0WDw0PNh0%2FAAAAAAAAAAI%2FAAAAAAAACCA%2F05fmIU0urIk%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://i.genius.com/767debca053fdb2ef52ff52687773925f4de2780?url=https%3A%2F%2Flh5.googleusercontent.com%2F-bR0WDw0PNh0%2FAAAAAAAAAAI%2FAAAAAAAACCA%2F05fmIU0urIk%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/s3fbgidws3",
+         "human_readable_role_for_display": "Contributor",
+         "id": 7812164,
+         "iq": 4529,
+         "login": "lamanci",
+         "name": "lamanci",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/lamanci",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/526307",
+    "header_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+    "id": 526307,
+    "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Richie Ray & Bobby Cruz",
+    "url": "https://genius.com/artists/Richie-ray-and-bobby-cruz"
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1792380",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1592419058",
+     "id": 1792380,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1592419058",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Craft Recordings",
+     "url": "https://genius.com/artists/Craft-recordings"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Letra de \"Soy Tan Feliz\"]\n\n[Verso 1]\nSoy tan feliz\nTengo las manos llenas\nDe tantas cosas buenas\nSoy tan feliz\n\n[Verso 2]\nPuedo sentir\nCorrientes de agua viva\nHas\u2005cambiado\u2005mi vida\nSoy tan\u2005feliz\n\n[Puente]\n\u00bfC\u00f3mo pude vivir as\u00ed\nSin esperanza, sin\u2005comprensi\u00f3n?\nHab\u00eda tristeza en mi canci\u00f3n\nY amargura en mi coraz\u00f3n\nY ahora no canto ya por cantar\nYa no sonr\u00edo por agradar\nAhora ya tengo lo que quer\u00eda:\nFelicidad\n\n[Verso 3]\nSoy tan feliz\nT\u00fa has cambiado mi vida\nPor ti mi alma suspira\nSoy tan feliz\n\n[Verso 4]\nSoy tan feliz\nDesde que te conoc\u00ed\nSoy tan feliz (la lara la la la)\nAhora puedo sonre\u00edr (la lara la la la)\nCon gozo en mi coraz\u00f3n\n\n[Puente]\n(la lara la la la)\n(la lara la la la)\n(la lara la la la)\n(la lara la la la)\n(la lara la la la)\n\n[Outro]\n(la lara la la la) Tocaste mi coraz\u00f3n\n(la lara la la la) Me cubriste con tu amor\n(la lara la la la) Yo-yo te canto mi canci\u00f3n\n(la lara la la la) Con gozo en mi coraz\u00f3n\nLa ra lara la la"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5537416",
+   "apple_music_id": "1465784355",
+   "apple_music_player_url": "https://genius.com/songs/5537416/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5537416' class='rg_embed_link' data-song-id='5537416'>Read <a href='https://genius.com/Richie-ray-and-bobby-cruz-juan-en-la-ciudad-lyrics'>\u201cJuan En La Ciudad\u201d by Richie\u00a0Ray & Bobby Cruz</a> on Genius</div> <script crossorigin src='//genius.com/songs/5537416/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Juan En La Ciudad by\u00a0Richie\u00a0Ray & Bobby Cruz",
+   "header_image_thumbnail_url": "https://images.genius.com/c446f88492ad5af195c511308c01ee61.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c446f88492ad5af195c511308c01ee61.360x360x1.jpg",
+   "id": 5537416,
+   "lyrics_owner_id": 7812164,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Richie-ray-and-bobby-cruz-juan-en-la-ciudad-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c446f88492ad5af195c511308c01ee61.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c446f88492ad5af195c511308c01ee61.360x360x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Juan En La Ciudad",
+   "title_with_featured": "Juan En La Ciudad",
+   "url": "https://genius.com/Richie-ray-and-bobby-cruz-juan-en-la-ciudad-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/582549",
+    "cover_art_url": "https://images.genius.com/c446f88492ad5af195c511308c01ee61.360x360x1.jpg",
+    "full_title": "Reconstrucci\u00f3n by Richie Ray & Bobby Cruz",
+    "id": 582549,
+    "name": "Reconstrucci\u00f3n",
+    "url": "https://genius.com/albums/Richie-ray-and-bobby-cruz/Reconstruccion",
+    "artist": {
+     "api_path": "/artists/526307",
+     "header_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+     "id": 526307,
+     "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Richie Ray & Bobby Cruz",
+     "url": "https://genius.com/artists/Richie-ray-and-bobby-cruz"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 7812164,
+    "annotator_login": "lamanci",
+    "api_path": "/referents/19758311",
+    "classification": "needs_exegesis",
+    "fragment": "Juan En La Ciudad",
+    "id": 19758311,
+    "is_description": true,
+    "path": "/19758311/Richie-ray-and-bobby-cruz-juan-en-la-ciudad/Juan-en-la-ciudad",
+    "range": {
+     "content": "Juan En La Ciudad"
+    },
+    "song_id": 5537416,
+    "url": "https://genius.com/19758311/Richie-ray-and-bobby-cruz-juan-en-la-ciudad/Juan-en-la-ciudad",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5537416",
+     "client_timestamps": {
+      "updated_by_human_at": 1588717135,
+      "lyrics_updated_at": 1588717135
+     },
+     "context": "Richie Ray & Bobby Cruz",
+     "id": 5537416,
+     "image_url": "https://images.genius.com/c446f88492ad5af195c511308c01ee61.360x360x1.jpg",
+     "link_title": "Juan En La Ciudad by\u00a0Richie\u00a0Ray & Bobby Cruz",
+     "title": "Juan En La Ciudad",
+     "type": "Song",
+     "url": "https://genius.com/Richie-ray-and-bobby-cruz-juan-en-la-ciudad-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19758311",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19758311,
+      "pinned": false,
+      "share_url": "https://genius.com/19758311",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19758311/Richie-ray-and-bobby-cruz-juan-en-la-ciudad/Juan-en-la-ciudad",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7812164",
+         "avatar": {
+          "tiny": {
+           "url": "https://i.genius.com/767debca053fdb2ef52ff52687773925f4de2780?url=https%3A%2F%2Flh5.googleusercontent.com%2F-bR0WDw0PNh0%2FAAAAAAAAAAI%2FAAAAAAAACCA%2F05fmIU0urIk%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://i.genius.com/767debca053fdb2ef52ff52687773925f4de2780?url=https%3A%2F%2Flh5.googleusercontent.com%2F-bR0WDw0PNh0%2FAAAAAAAAAAI%2FAAAAAAAACCA%2F05fmIU0urIk%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://i.genius.com/767debca053fdb2ef52ff52687773925f4de2780?url=https%3A%2F%2Flh5.googleusercontent.com%2F-bR0WDw0PNh0%2FAAAAAAAAAAI%2FAAAAAAAACCA%2F05fmIU0urIk%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://i.genius.com/767debca053fdb2ef52ff52687773925f4de2780?url=https%3A%2F%2Flh5.googleusercontent.com%2F-bR0WDw0PNh0%2FAAAAAAAAAAI%2FAAAAAAAACCA%2F05fmIU0urIk%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/s3fbgidws3",
+         "human_readable_role_for_display": "Contributor",
+         "id": 7812164,
+         "iq": 4529,
+         "login": "lamanci",
+         "name": "lamanci",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/lamanci",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/526307",
+    "header_image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+    "id": 526307,
+    "image_url": "https://images.genius.com/14400057325902dc07a3d1b0383e6b44.451x451x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Richie Ray & Bobby Cruz",
+    "url": "https://genius.com/artists/Richie-ray-and-bobby-cruz"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Letra de \"Juan En La Ciudad\"]\n\n[Verso 1]\nDijo Juan un d\u00eda a su pap\u00e1:\n\"Dame lo m\u00edo, no quiero esperar\nYo me voy a\u2005la\u2005gran ciudad\nQuiero la\u2005vida gozar\"\n\n[Verso 2]\nHijo m\u00edo, all\u00e1 hay mucho\u2005mal\nVicios, mujeres, envidia, traici\u00f3n\nQu\u00e9date, no vayas all\u00e1\nPero Juan no le escuch\u00f3\n\n[Puente]\nY en la gran ciudad Juan gozaba tanto\nVinos y placeres, hermosas mujeres\nPero un d\u00eda Juan se hall\u00f3 sin dinero\nY todos sus amigos la espalda le dieron\n\n[Verso 3]\nAhora Juan, solo en la ciudad\nFr\u00edo y hambriento, se puso a pensar\nQu\u00e9 feliz yo era cuando estaba con pap\u00e1\nSi regreso quiz\u00e1s me perdonar\u00e1\n\nY el pap\u00e1 dec\u00eda al verlo llegar:\n\"Mi hijo ha regresado, vamo' a celebrar\nHagan una fiesta, vamos a cantar\nPues mi hijo ha vuelto se\u00f1ores, vamo' a celebrar\"\n\n[Coro]\nY el pap\u00e1 dec\u00eda al verlo llegar:\n\"Mi hijo ha regresado, vamo' a celebrar\nInvita a los vecinos y a toda la gente pues\nEste muchacho volvi\u00f3 a m\u00ed de repente\"\nY el pap\u00e1 dec\u00eda al verlo llegar:\n\"Mi hijo ha regresado, vamo' a celebrar\"\n\n[Coro]\nY el pap\u00e1 dec\u00eda al verlo llegar:\n\"Mi hijo ha regresado, vamo' a celebrar\nDenle ropa nueva, vistanlo de gala\nPues este es mi hijo amado, al cual yo esperaba\"\n\n[Coro]\nY el pap\u00e1 dec\u00eda al verlo llegar:\n\"Mi hijo ha regresado, vamo' a celebrar\nQue suenen las trompetas, vamos a cantar\nPues mi hijo ha vuelto se\u00f1ores, vamo' a celebrar\"\nY el pap\u00e1 dec\u00eda al verlo llegar:\n\"Mi hijo ha regresado, vamo' a celebrar\"\n\n[Coro]\nY el pap\u00e1 dec\u00eda al verlo llegar:\n\"Mi hijo ha regresado, vamo' a celebrar\nYo me imaginaba que \u00e9l me hab\u00eda olvidado\nPero hoy mi hijo amado a mi a regresado\"\nY el pap\u00e1 dec\u00eda al verlo llegar:\n\"Mi hijo ha regresado, vamo' a celebrar\"\n\n[Outro]\nY el viejo danzaba de un lado pa' otro\nRe\u00eda lloraba y estaba gozoso\nY el pap\u00e1 dec\u00eda al verlo llegar:\n\"Mi hijo ha regresado vamo' a celebrar\""
+  }
+ ]
+}
